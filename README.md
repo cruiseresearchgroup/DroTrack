@@ -22,8 +22,10 @@ If you find this code useful, please consider citing:
   <img src="code/src/DroTrack.png" width="600px" />
 </div>
 
-<br />
+<div align="center">
 ** Results**
+</div>
+
 <div align="center">
   <img src="code/src/Final-results.jpg" width="600px" />
 </div>
