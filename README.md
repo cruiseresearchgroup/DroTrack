@@ -34,7 +34,7 @@ If you find this code useful, please consider citing:
 
 ### Demo
 
-![](https://ezgif.com/video-to-gif?url=https://youtu.be/fUYiur3yUxw)
+![](demo/DroTrack Demo.gif)
 
 ## License
 Licensed under an MIT license.
