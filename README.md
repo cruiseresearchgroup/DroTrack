@@ -34,8 +34,7 @@ If you find this code useful, please consider citing:
 
 ### Demo
 
-<video width="640" height="480" controls>
-  <source src="demo/DroTrack Demo.mp4" type="video/mp4">
-</video>
+![](https://ezgif.com/video-to-gif?url=https://youtu.be/fUYiur3yUxw)
+
 ## License
 Licensed under an MIT license.
