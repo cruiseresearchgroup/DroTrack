@@ -37,5 +37,7 @@ If you find this code useful, please consider citing:
     <img src="demo/DroTrack Demo.gif" width="600" />
 </div>
 
+**[[Video](https://youtu.be/i0oiodX9o6g)]**
+
 ## License
 Licensed under an MIT license.
