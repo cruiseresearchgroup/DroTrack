@@ -34,7 +34,8 @@ If you find this code useful, please consider citing:
 
 ### Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fUYiur3yUxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<video width="640" height="480" controls>
+  <source src="demo/DroTrack Demo.mp4" type="video/mp4">
+</video>
 ## License
 Licensed under an MIT license.
