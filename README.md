@@ -9,7 +9,7 @@
 If you find this code useful, please consider citing:
 
 ```
-@inproceedings{wang2019fast,
+@inproceedings{hamdi2020drotrack,
     title={DroTrack: High-speed Drone-based Object Tracking Under Uncertainty},
     author={Ali Hamdi, Flora Salim, Du Yong Kim},
     booktitle={Proceedings of the IEEE conference on Fuzzy Systems (FUZZ-IEEE)},
