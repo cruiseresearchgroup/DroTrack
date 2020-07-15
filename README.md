@@ -16,12 +16,13 @@ If you find this code useful, please consider citing:
     year={2020}
 }
 ```
+<br />
 
 <div align="center">
   <img src="code/src/DroTrack.png" width="600px" />
 </div>
 
-
+<br />
 ** Results**
 <div align="center">
   <img src="code/src/Final-results.jpg" width="600px" />
