@@ -33,8 +33,9 @@ If you find this code useful, please consider citing:
 </div>
 
 ### Demo
-
-![](demo/DroTrack Demo.gif)
+<div align="center">
+    <img src="demo/DroTrack Demo.gif" width="600" />
+</div>
 
 ## License
 Licensed under an MIT license.
