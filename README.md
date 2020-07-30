@@ -11,7 +11,7 @@ If you find this code useful, please consider citing:
 ```
 @inproceedings{hamdi2020drotrack,
     title={DroTrack: High-speed Drone-based Object Tracking Under Uncertainty},
-    author={Ali Hamdi, Flora Salim, Du Yong Kim},
+    author={Hamdi, Ali and Salim, Flora and Kim,Du Yong},
     booktitle={Proceedings of the IEEE conference on Fuzzy Systems (FUZZ-IEEE)},
     year={2020}
 }
