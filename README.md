@@ -4,6 +4,7 @@
 [Ali Hamdi](https://scholar.google.com.au/citations?user=Q5qW1rcAAAAJ&hl=en),[Flora Salim](http://florasalim.com/), [Du Yong Kim](https://sites.google.com/site/duyongkim/)<br />
 **FUZZ-IEEE 2020** <br />
 **[[Paper](https://arxiv.org/abs/2005.00828)] [[Video](https://youtu.be/i0oiodX9o6g)]** <br />
+**Finalist of best student paper award in IEEE-FUZZ 2020.<br />
 
 ### Bibtex
 If you find this code useful, please consider citing:
