@@ -11,10 +11,14 @@ If you find this code useful, please consider citing:
 
 ```
 @inproceedings{hamdi2020drotrack,
-    title={DroTrack: High-speed Drone-based Object Tracking Under Uncertainty},
-    author={Hamdi, Ali and Salim, Flora and Kim,Du Yong},
-    booktitle={Proceedings of the IEEE conference on Fuzzy Systems (FUZZ-IEEE)},
-    year={2020}
+    author    = {Hamdi, Ali and Salim, Flora and Kim,Du Yong},
+    title     = {DroTrack: High-speed Drone-based Object Tracking Under Uncertainty},
+    booktitle = {29th {IEEE} International Conference on Fuzzy Systems, {FUZZ-IEEE} 2020, Glasgow, UK, July 19-24, 2020},
+    pages     = {1--8},
+    publisher = {{IEEE}},
+    year      = {2020},
+    url       = {https://doi.org/10.1109/FUZZ48607.2020.9177571},
+    doi       = {10.1109/FUZZ48607.2020.9177571}
 }
 ```
 <br />
