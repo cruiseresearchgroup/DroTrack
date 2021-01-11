@@ -6,6 +6,8 @@
 **[[Paper](https://arxiv.org/abs/2005.00828)] [[Video](https://youtu.be/i0oiodX9o6g)]** <br />
 **Finalist of best student paper award in IEEE-FUZZ 2020.<br />
 
+DroTrack is a high-speed visual single-object tracking framework for drone-captured video sequences. The complex motion of drones, i.e., multiple degrees of freedom in three-dimensional space, causes high uncertainty. The uncertainty problem leads to inaccurate location predictions and fuzziness in scale estimations. DroTrack solves such issues by discovering the dependency between object representation and motion geometry. DroTrack has been evaluated using two datasets of 51,462 drone-captured frames. The combination of the FCM segmentation and the angular scaling increased DroTrack precision by up to 9% and decreased the centre location error by 162 pixels on average. DroTrack outperforms all the high-speed trackers and achieves comparable results in comparison to deep learning trackers. DroTrack offers high frame rates up to 1000 frame per second (fps) with the best location precision, more than a set of state-of-the-art real-time trackers.
+
 ### Bibtex
 If you find this code useful, please consider citing:
 
